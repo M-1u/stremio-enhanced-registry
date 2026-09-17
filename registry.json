@@ -167,6 +167,14 @@
       "version": "1.1.0",
       "repo": "https://github.com/M-1u/stremio-close-preview-panel",
       "download": "https://github.com/M-1u/stremio-close-preview-panel/releases/download/v1.1.0/close-preview-panel.plugin.js"
+    },
+    {
+      "name": "Poster Size",
+      "author": "M-1u",
+      "description": "Choose the poster/card size (S/M/L/XL) on Discover and Library. Your choice is remembered.",
+      "version": "1.1.0",
+      "repo": "https://github.com/M-1u/stremio-poster-size",
+      "download": "https://github.com/M-1u/stremio-poster-size/releases/download/v1.1.0/poster-size.plugin.js"
     }
   ],
   "themes": [
