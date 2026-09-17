@@ -135,6 +135,14 @@
       "version": "1.0.1",
       "author": "Enkvaros",
       "download": "https://github.com/Enkvaros/stremio-enhanced-stream-titles-fixed/releases/download/v1.0.1/expand-stream-titles.plugin.js"
+    },
+    {
+      "name": "Stream Keyword Filter",
+      "author": "M-1u",
+      "description": "Filter a movie/episode's stream list by resolution, source, video/audio codec tags (REMUX, 2160p, x265, DTS...), plus free-text keywords. Save selections as reusable, editable presets.",
+      "version": "1.7.0",
+      "repo": "https://github.com/M-1u/stremio-stream-keyword-filter",
+      "download": "https://github.com/M-1u/stremio-stream-keyword-filter/releases/download/v1.7.0/stream-keyword-filter.plugin.js"
     }
   ],
   "themes": [
