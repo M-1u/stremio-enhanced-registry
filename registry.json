@@ -175,6 +175,14 @@
       "version": "1.1.0",
       "repo": "https://github.com/M-1u/stremio-poster-size",
       "download": "https://github.com/M-1u/stremio-poster-size/releases/download/v1.1.0/poster-size.plugin.js"
+    },
+    {
+      "name": "Random Pick",
+      "author": "M-1u",
+      "description": "Jumps to a random item on Discover or Library, respecting active filters from other plugins (folders, watched, etc.).",
+      "version": "1.1.0",
+      "repo": "https://github.com/M-1u/stremio-random-pick",
+      "download": "https://github.com/M-1u/stremio-random-pick/releases/download/v1.1.0/random-pick.plugin.js"
     }
   ],
   "themes": [
