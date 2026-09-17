@@ -44,7 +44,7 @@
     {
       "name": "Stremio Intro Skip",
       "author": "shugi12345",
-      "description": "Community-powered \u201cSkip Intro\u201d for shows and movies in Stremio Enhanced.",
+      "description": "Community-powered “Skip Intro” for shows and movies in Stremio Enhanced.",
       "version": "1.1.0",
       "repo": "https://github.com/shugi12345/stremio-skip-button",
       "download": "https://github.com/shugi12345/stremio-skip-button/releases/download/v1.1.0/skip-intro.plugin.js"
@@ -120,6 +120,61 @@
       "version": "1.4.0",
       "repo": "https://github.com/JZOnTheGit/stream-quality-picker",
       "download": "https://github.com/JZOnTheGit/stream-quality-picker/releases/download/v1.4.0/stream-quality-picker.plugin.js"
+    },
+    {
+      "name": "Anilist Sync",
+      "author": "GefyDev",
+      "description": "Automated anime tracking plugin for Stremio Enhanced that seamlessly synchronizes your watched anime episodes with your AniList profile in real-time.",
+      "version": "1.0.0",
+      "repo": "https://github.com/gefydev/anilist-plugin-stremio",
+      "download": "https://github.com/gefydev/anilist-plugin-stremio/releases/download/v1.0.0/AniListSync.plugin.js"
+    },
+    {
+      "name": "ExpandStreamTitles",
+      "description": "Removes text truncation on stream links, allowing full release titles to display.",
+      "version": "1.0.1",
+      "author": "Enkvaros",
+      "download": "https://github.com/Enkvaros/stremio-enhanced-stream-titles-fixed/releases/download/v1.0.1/expand-stream-titles.plugin.js"
+    },
+    {
+      "name": "Stream Keyword Filter",
+      "author": "M-1u",
+      "description": "Filter a movie/episode's stream list by resolution, source, video/audio codec tags (REMUX, 2160p, x265, DTS...), plus free-text keywords. Save selections as reusable, editable presets.",
+      "version": "1.7.0",
+      "repo": "https://github.com/M-1u/stremio-stream-keyword-filter",
+      "download": "https://github.com/M-1u/stremio-stream-keyword-filter/releases/download/v1.7.0/stream-keyword-filter.plugin.js"
+    },
+    {
+      "name": "Collapsible Filters",
+      "author": "M-1u",
+      "description": "Adds a toggle to collapse/expand the filters row on Discover and Library, to reclaim vertical space for the grid.",
+      "version": "1.3.3",
+      "repo": "https://github.com/M-1u/stremio-collapsible-filters",
+      "download": "https://github.com/M-1u/stremio-collapsible-filters/releases/download/v1.3.3/collapsible-filters.plugin.js"
+    },
+    { 
+      "name": "Library Stats",
+      "author": "M-1u",
+      "description": "A stats panel for your Stremio Library: totals, watched split, movies vs series, and per-folder counts (works with Library Folders). No network calls.",
+      "version": "1.0.9",
+      "repo": "https://github.com/M-1u/stremio-library-stats",
+      "download": "https://github.com/M-1u/stremio-library-stats/releases/download/v1.0.9/library-stats.plugin.js"
+    },
+    {
+      "name": "Close Preview Panel",
+      "author": "M-1u",
+      "description": "Close/reopen Discover's item preview panel to reclaim grid width, with a small tab to bring it back.",
+      "version": "1.1.0",
+      "repo": "https://github.com/M-1u/stremio-close-preview-panel",
+      "download": "https://github.com/M-1u/stremio-close-preview-panel/releases/download/v1.1.0/close-preview-panel.plugin.js"
+    },
+    {
+      "name": "Poster Size",
+      "author": "M-1u",
+      "description": "Choose the poster/card size (S/M/L/XL) on Discover and Library. Your choice is remembered.",
+      "version": "1.1.0",
+      "repo": "https://github.com/M-1u/stremio-poster-size",
+      "download": "https://github.com/M-1u/stremio-poster-size/releases/download/v1.1.0/poster-size.plugin.js"
     },
     {
       "name": "Random Pick",
